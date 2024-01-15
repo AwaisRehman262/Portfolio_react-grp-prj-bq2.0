@@ -644,13 +644,9 @@ const AwaisComponent = () => {
         <div class="container">
           <div class="row">
             <div class="col-sm-4 col-sm-push-8">
-              <a
-                id="home-marketplace-link"
-                href="https://marketplace.visualstudio.com/VSCode"
-                target="_blank"
-              >
+              <a id="home-marketplace-link" href="#" target="_blank">
                 <img
-                  src="./src/assets/Awais Component/Hundreds-of-Extensions.png"
+                  src="D:\Coding\Web Development\Portfolio_react-grp-prj-bq2.0\src\assets\Awais Component\Hundreds-of-Extensions.png"
                   class="hundreds-extensions-img"
                   alt="Easily use extensions in VS Code"
                 />
@@ -939,14 +935,11 @@ const AwaisComponent = () => {
             <div class="col-sm-7 col-sm-push-1">
               <h2>Deploy with confidence and ease</h2>
               <p>
-                With <a href="https://azure.microsoft.com">Microsoft Azure</a>{" "}
-                you can deploy and host your React, Angular, Vue, Node, Python
-                (and more!) sites, store and query relational and document based
-                data, and scale with serverless computing, all with ease,{" "}
-                <a href="https://code.visualstudio.com/docs/azure/extensions">
-                  all from within VS Code
-                </a>
-                .
+                With <a href="#">Microsoft Azure</a> you can deploy and host
+                your React, Angular, Vue, Node, Python (and more!) sites, store
+                and query relational and document based data, and scale with
+                serverless computing, all with ease,{" "}
+                <a href="#">all from within VS Code</a>.
               </p>
             </div>
           </div>
