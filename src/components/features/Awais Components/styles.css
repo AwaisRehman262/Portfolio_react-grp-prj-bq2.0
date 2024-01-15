@@ -1,0 +1,42 @@
+/* Add this to your existing CSS file or create a new one */
+
+.swimlaneContainer {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.swimlane {
+  background-color: #f3f3f3;
+  padding: 20px;
+  margin-bottom: 20px;
+  max-width: 100%;
+}
+
+.swimlane:hover {
+  transform: scale(1.1);
+  transform-origin: center;
+}
+
+.swimlane img {
+  max-height: 14vw;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col-sm-4,
+.col-sm-7 {
+  flex: 0 0 100%;
+}
+
+@media (min-width: 768px) {
+  .col-sm-4 {
+    flex: 0 0 50%;
+  }
+
+  .col-sm-7 {
+    flex: 0 0 50%;
+  }
+}

@@ -1,0 +1,42 @@
+.valueProps {
+  width: 100%;
+  font-size: 2rem;
+  background-color: black;
+  text-align: center;
+}
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.row {
+  display: flex;
+  justify-content: space-evenly;
+  display: flex;
+}
+
+.item {
+  display: block;
+  width: 25%;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+#intellisense {
+  background-image: url("../../../assets/Navigator/light-bulb-svgrepo-com.svg");
+}
+
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
