@@ -41,9 +41,11 @@
 }
 .logo2 {
     background-image: url('./theme.jpg');
-    width: 600px;
-    height: 400px;
-    background-size: contain;
+    width: 900px;
+    height: 700px;
+    border: 2px solid darkslategray;
+    border-radius: 20px;
+    background-size: content;
     background-repeat: no-repeat;
     align-self: center;
 }

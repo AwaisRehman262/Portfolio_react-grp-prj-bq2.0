@@ -30,11 +30,13 @@
 .sectionpic {
     display: block;
     background-image: url('./pics/terminal.png');
-    background-size: contain;
+    background-size:inherit;
     background-repeat: no-repeat;
-    width: 550px;
+    width: 900px;
     overflow: hidden;
-    height: 500px;
+    height: 700px;
+    border: 2px solid darkslategray;
+    border-radius: 2cap;
     align-items: center;
     justify-content: center;
     align-self: center;
