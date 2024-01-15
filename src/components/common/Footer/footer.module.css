@@ -1,0 +1,32 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(0, 11, 11);
+    width: auto;
+    height: auto;
+    font-size: 50px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    padding: 2%;
+}
+.footerDesc {
+    font-size: 15px;
+    align-items: center;
+    justify-content: center;
+}
+.footerSm {
+    font-size: 30px;
+    display: flex;
+    padding: 2%;
+    gap: 10px;
+}
+.footerSm a {
+    color: white;
+    transition: 0.3s ease-out;
+}
+.footerSm a:hover {
+    cursor: pointer;
+    opacity: calc(0.5);
+}

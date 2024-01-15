@@ -6,9 +6,7 @@
 }
 
 nav {
-  position: sticky;
-  top: 0;
-  background-color: transparent;
+    background-color: transparent
 }
 nav .container {
   display: flex;
@@ -16,14 +14,14 @@ nav .container {
   gap: 20px;
 }
 .logo {
-  font-family: "Manjari", Helvetica;
-  font-size: 4vh;
-  display: flex;
-  align-items: center;
-  margin-left: 2vh;
-  color: white;
-  font-weight: bold;
-  padding: 5px;
+    font-family: 'Manjari',Helvetica;
+    font-size: 4vh;
+    display: flex;
+    align-items: center;
+    margin-left: 2vh;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
 }
 
 li {
@@ -38,25 +36,27 @@ li a {
   font-weight: 500;
 }
 li a:hover {
-  color: rgb(93, 156, 250);
-  transition: 0.3s ease-in-out;
-  text-decoration-line: underline;
-  text-decoration-color: rgb(93, 156, 250);
-  text-decoration-style: solid;
-  text-decoration-thickness: 2px;
+    color: rgb(93, 156, 250);
+    transition: 0.3s ease-in-out;
+    text-decoration-line: underline;
+    text-decoration-color:  rgb(93, 156, 250);
+    text-decoration-style: solid;
+    text-decoration-thickness: 2px;
+    
 }
 li #btn-theme-toggle {
-  border: none;
-  border-radius: 50%;
-  background-color: transparent;
-  color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: 0.3s ease-in-out;
-  height: 30px;
-  width: 30px;
+    border: none;
+    border-radius: 50%;
+    background-color: transparent;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s ease-in-out;
+    height: 30px;
+    width: 30px;
+    
 }
 li #btn-theme-toggle:hover {
-  transform: rotate(90deg);
+    transform: rotate(90deg);
 }
