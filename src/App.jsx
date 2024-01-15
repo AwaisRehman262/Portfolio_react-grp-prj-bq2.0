@@ -4,6 +4,8 @@ import './App.css';
 import './components/common/Navbar/navbar.module.css';
 import SectionTwo from './components/features/Section-Two/main.jsx';
 import SectionOne from './components/features/Section-One/main.jsx';
+import SectionThree from './components/features/Section-Three/main.jsx';
+import Footer from './components/common/Footer/main.jsx';
 
 const App = () => {
 
@@ -14,8 +16,9 @@ const App = () => {
         <div className='container'>
           <SectionOne />
           <SectionTwo />
+          <SectionThree />
         </div>
-      
+      <Footer />
     </>
   )
 }
