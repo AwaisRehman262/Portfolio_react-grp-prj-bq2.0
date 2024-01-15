@@ -1,9 +1,7 @@
 import styles from './navbar.module.css';
 import React from 'react';
 const Navbar = () => {
-    let buttonToggleNavigation = () => {
-            
-    }
+
     return (
         
 
