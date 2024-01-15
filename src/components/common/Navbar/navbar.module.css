@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Manjari&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manjari:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+    font-family: 'Manjari',Helvetica;
+}
+
+nav {
+    background-color: transparent
+}
+nav .container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.logo {
+    font-family: 'Manjari',Helvetica;
+    font-size: 4vh;
+    display: flex;
+    align-items: center;
+    margin-left: 2vh;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+}
+li a {
+    text-decoration: none;
+    color: white;
+    transition: 0.3s ease-in;
+    font-weight: 500;
+}
+li a:hover {
+    color: rgb(93, 156, 250);
+    transition: 0.3s ease-in-out;
+    text-decoration-line: underline;
+    text-decoration-color:  rgb(93, 156, 250);
+    text-decoration-style: solid;
+    text-decoration-thickness: 2px;
+    
+}
+li #btn-theme-toggle {
+    border: none;
+    border-radius: 50%;
+    background-color: transparent;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s ease-in-out;
+    height: 30px;
+    width: 30px;
+    
+}
+li #btn-theme-toggle:hover {
+    transform: rotate(90deg);
+}
