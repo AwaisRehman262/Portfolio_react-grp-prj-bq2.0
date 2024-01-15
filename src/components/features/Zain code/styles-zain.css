@@ -185,9 +185,11 @@ li #btn-theme-toggle:hover {
   align-items: center;
   /* background-color: black; */
   font-size: 3vh;
-  width: 50%;
-  height: fit-content;
+  padding: 1%;
+  width: 30%;
+  height: auto;
   justify-content: left;
+  overflow: visible;
 }
 
 /* Zain's code start */
@@ -196,7 +198,6 @@ li #btn-theme-toggle:hover {
   text-align: center;
   background-color: lightgray;
 }
-
 .section-two-table-item:hover {
   /* transform: translateY(-15px); */
   animation: moveUpALittle 1s;
@@ -247,6 +248,7 @@ li #btn-theme-toggle:hover {
 #section-seven-table-id {
   background-color: #54626f;
   color: white;
+  width: 100%;
 }
 
 .section-seven-table td,
