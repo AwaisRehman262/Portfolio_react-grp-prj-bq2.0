@@ -1,0 +1,40 @@
+
+.section-one {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(6, 6, 6);
+    color: white;
+    /* justify-content: center; */
+    align-items: flex-start;
+    width: 100%;
+    gap: 10%;
+    height: 100vh;
+
+}
+#secOne {
+    scroll-behavior: smooth;
+}
+
+.sectwodesc {
+    font-size: 50px;
+    padding: 5% 2%;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+
+  
+}
+
+.sectionpic {
+    background-image: url('./pics/terminal.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 700px;
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    border-radius: 50px;
+    border: 10px solid rgb(25, 25, 25);
+    
+}
