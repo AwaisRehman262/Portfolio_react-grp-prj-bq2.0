@@ -40,9 +40,10 @@
     gap: 5%;
 }
 .logo2 {
+    display: flex;
     background-image: url('./theme.jpg');
     width: 900px;
-    height: 700px;
+    height: 900px;
     border: 2px solid darkslategray;
     border-radius: 20px;
     background-size: content;
@@ -57,10 +58,17 @@
     } 
     div.logo2 {
         width: 250px;
-
+        height: 400px;
         background-size: cover;
+        overflow: scroll;
     }
     div.sectionThreeElem2 {
         text-align: center;
     }
+}
+@media (max-width: 400px) {
+    div.logo2, div.sectionThreeElem2 {
+        visibility: hidden;
+    }
+    
 }
