@@ -9,7 +9,7 @@ const AwaisComponent = () => {
         <div className="row">
           <div className="col-sm-4">
             <img
-              src="src/assets/SectionFour/home-intellisense.svg"
+              src="./src/assets/SectionFour/home-intellisense.svg"
               alt="Intellisense"
               className="screenshot"
             />
@@ -31,7 +31,7 @@ const AwaisComponent = () => {
           <div className="row">
             <div className="col-sm-4 col-sm-push-8">
               <img
-                src="src/assets/SectionFive/homedebugger.svg"
+                src="./src/assets/SectionFive/homedebugger.svg"
                 alt="Debugging"
                 className="screenshot"
               />
@@ -52,7 +52,7 @@ const AwaisComponent = () => {
           <div class="row">
             <div class="col-sm-4">
               <img
-                src="/src/assets/Awais Component/home-git.svg"
+                src="./src/assets/Awais Component/home-git.svg"
                 alt="Git"
                 class="screenshot"
               />
@@ -79,7 +79,7 @@ const AwaisComponent = () => {
                 target="_blank"
               >
                 <img
-                  src="/src/assets/Awais Component/Hundreds-of-Extensions.png"
+                  src="./src/assets/Awais Component/Hundreds-of-Extensions.png"
                   class="hundreds-extensions-img"
                   alt="Easily use extensions in VS Code"
                 />
@@ -109,7 +109,7 @@ const AwaisComponent = () => {
           <div class="row">
             <div class="col-sm-4">
               <img
-                src="/src/assets/Awais Component/home-azure.svg"
+                src="./src/assets/Awais Component/home-azure.svg"
                 alt="Git"
                 class="screenshot"
               />
