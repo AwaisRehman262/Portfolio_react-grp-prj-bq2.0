@@ -22,7 +22,7 @@ const Navbar = () => {
                 <a href="#section-six-id">Reviews</a>
               </li>
               <li>
-                <a href="#colaborations">Colaborations</a>
+                <a href="#colaborations">Collaborations</a>
               </li>
               <li></li>
             </ul>

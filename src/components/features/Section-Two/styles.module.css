@@ -2,8 +2,8 @@
 .section-one {
     display: flex;
     flex-direction: column;
-    background-color: rgb(0, 11, 11);
-    color: white;
+    background-color: white;
+    color: rgb(0, 11, 11);
     /* justify-content: center; */
     align-items: flex-start;
     width: auto;
@@ -13,12 +13,11 @@
     padding: 5% 2%;
 
 }
-#secOne {
-    scroll-behavior: smooth;
-}
+
 
 .sectwodesc {
     font-size: 50px;
+    width: auto;
     padding: 5% 2%;
     align-items: center;
     justify-content: center;

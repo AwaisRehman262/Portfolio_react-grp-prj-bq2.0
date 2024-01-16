@@ -6,10 +6,9 @@ const SectionOne = () => {
     <main>
     <div className="container">
             <section className={styles['main-section']}>
-                <div className={styles.title}>Code Everything, Anywhere</div>
-                <div className={styles['title-des']}>Support 10+ Programming Languges like C, C++, Rust, Go, Kotlin, and  JS Frameworks like React, Vue, Angular    
-                </div>
-                <button id={styles['home-button']} type="button">Download</button>
+                <div className={styles.title}>Code Anywhere, Everywhere</div>
+                <div className={styles['title-des']}>Dream IDE for Every Developer on Planet <i className="bi bi-globe-americas"></i></div>
+                <button id={styles['home-button']} type="button">Download <i className="bi bi-arrow-down-circle-fill"></i></button>
             </section>
            
         </div>
