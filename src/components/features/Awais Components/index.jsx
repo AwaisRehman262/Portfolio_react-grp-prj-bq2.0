@@ -22,15 +22,15 @@ const AwaisComponent = () => {
               <path
                 d="M2.6001 2.60001H308.1V197.34H2.6001V2.60001Z"
                 stroke="#6D6E71"
-                strokeWidth="5.2"
-                strokeMiterlimit="10"
+                stroke-width="5.2"
+                stroke-miterlimit="10"
               />
               <path
                 d="M2.6001 2.60001H23.9201V197.34H2.6001V2.60001Z"
                 fill="#D1D3D4"
                 stroke="#6D6E71"
-                strokeWidth="5.2"
-                strokeMiterlimit="10"
+                stroke-width="5.2"
+                stroke-miterlimit="10"
               />
               <path
                 d="M13.26 19.76C16.2755 19.76 18.72 17.3155 18.72 14.3C18.72 11.2845 16.2755 8.84 13.26 8.84C10.2446 8.84 7.80005 11.2845 7.80005 14.3C7.80005 17.3155 10.2446 19.76 13.26 19.76Z"
@@ -51,50 +51,50 @@ const AwaisComponent = () => {
               <path
                 d="M51.22 26.78H86.06"
                 stroke="#00AEEF"
-                strokeWidth="5.2"
-                strokeMiterlimit="10"
+                stroke-width="5.2"
+                stroke-miterlimit="10"
               />
               <path
                 d="M59.8 42.38H89.7001"
                 stroke="#58595B"
-                strokeWidth="5.2"
-                strokeMiterlimit="10"
+                stroke-width="5.2"
+                stroke-miterlimit="10"
               />
               <path
                 d="M59.8 58.24H202.54"
                 stroke="#58595B"
-                strokeWidth="5.2"
-                strokeMiterlimit="10"
+                stroke-width="5.2"
+                stroke-miterlimit="10"
               />
               <path
                 d="M72.8 89.44H214.24"
                 stroke="#58595B"
-                strokeWidth="5.2"
-                strokeMiterlimit="10"
+                stroke-width="5.2"
+                stroke-miterlimit="10"
               />
               <path
                 d="M82.1597 105.04H119.86"
                 stroke="#00AEEF"
-                strokeWidth="5.2"
-                strokeMiterlimit="10"
+                stroke-width="5.2"
+                stroke-miterlimit="10"
               />
               <path
                 d="M59.8 73.84H119.86"
                 stroke="#58595B"
-                strokeWidth="5.2"
-                strokeMiterlimit="10"
+                stroke-width="5.2"
+                stroke-miterlimit="10"
               />
               <path
                 d="M124.02 98.54V109.46"
                 stroke="#BCBEC0"
-                strokeWidth="5.2"
-                strokeMiterlimit="10"
+                stroke-width="5.2"
+                stroke-miterlimit="10"
               />
               <path
                 d="M82.1597 112.58H207.74V169.26H82.1597V112.58Z"
                 stroke="#58595B"
-                strokeWidth="5.2"
-                strokeMiterlimit="10"
+                stroke-width="5.2"
+                stroke-miterlimit="10"
               />
               <path
                 d="M86.3198 117.26H203.58V133.9H86.3198V117.26Z"
@@ -103,38 +103,38 @@ const AwaisComponent = () => {
               <path
                 d="M105.82 126.1H191.1"
                 stroke="white"
-                strokeWidth="5.2"
-                strokeMiterlimit="10"
+                stroke-width="5.2"
+                stroke-miterlimit="10"
               />
               <path
                 d="M105.82 140.92H191.1"
                 stroke="#58595B"
-                strokeWidth="5.2"
-                strokeMiterlimit="10"
+                stroke-width="5.2"
+                stroke-miterlimit="10"
               />
               <path
                 d="M105.82 156H191.1"
                 stroke="#58595B"
-                strokeWidth="5.2"
-                strokeMiterlimit="10"
+                stroke-width="5.2"
+                stroke-miterlimit="10"
               />
               <path
                 d="M90.4802 126.1H96.7202"
                 stroke="white"
-                strokeWidth="5.2"
-                strokeMiterlimit="10"
+                stroke-width="5.2"
+                stroke-miterlimit="10"
               />
               <path
                 d="M90.4802 140.92H96.7202"
                 stroke="#58595B"
-                strokeWidth="5.2"
-                strokeMiterlimit="10"
+                stroke-width="5.2"
+                stroke-miterlimit="10"
               />
               <path
                 d="M90.4802 156H96.7202"
                 stroke="#58595B"
-                strokeWidth="5.2"
-                strokeMiterlimit="10"
+                stroke-width="5.2"
+                stroke-miterlimit="10"
               />
               <path
                 d="M264 117.973C264 144.468 285.478 165.946 311.973 165.946C338.468 165.946 359.946 144.468 359.946 117.973C359.946 91.4782 338.468 70 311.973 70C285.478 70 264 91.4782 264 117.973Z"
@@ -169,7 +169,7 @@ const AwaisComponent = () => {
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
               >
-                <g clipPath="url(#clip0)">
+                <g clip-path="url(#clip0)">
                   <path
                     opacity="0.75"
                     d="M352.711 81.7438H140.281V96.843H352.711V81.7438Z"
@@ -178,15 +178,15 @@ const AwaisComponent = () => {
                   <path
                     d="M355.054 2.6033H49.1655V197.591H355.054V2.6033Z"
                     stroke="#6D6E70"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M70.5126 2.6033H49.1655V197.591H70.5126V2.6033Z"
                     fill="#D0D2D3"
                     stroke="#6D6E70"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M59.839 19.7851C62.8583 19.7851 65.306 17.3375 65.306 14.3182C65.306 11.2989 62.8583 8.85123 59.839 8.85123C56.8197 8.85123 54.3721 11.2989 54.3721 14.3182C54.3721 17.3375 56.8197 19.7851 59.839 19.7851Z"
@@ -207,123 +207,123 @@ const AwaisComponent = () => {
                   <path
                     d="M166.054 26.814H200.938"
                     stroke="#00ADEE"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M174.645 42.4338H204.583"
                     stroke="#58595B"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M174.645 58.0537H317.566"
                     stroke="#58595B"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M187.401 89.2934H329.281"
                     stroke="#58595B"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M197.033 104.913H291.272"
                     stroke="#58595B"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M174.645 73.6735H234.781"
                     stroke="#58595B"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M355.054 139.277H141.322V197.591H355.054V139.277Z"
                     stroke="#58595B"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M140.541 2.6033H70.5125V197.591H140.541V2.6033Z"
                     fill="#D0D2D3"
                     stroke="#6D6E70"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M140.541 7.28922H70.5125V58.0537H140.541V7.28922Z"
                     stroke="#6D6E70"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M140.541 58.0537H70.5125V108.818H140.541V58.0537Z"
                     stroke="#6D6E70"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M140.541 108.558H70.5125V159.322H140.541V108.558Z"
                     stroke="#6D6E70"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M154.86 177.806L161.368 184.314L154.86 190.822"
                     stroke="#BBBDBF"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M78.843 16.6611H103.314"
                     stroke="#58595B"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M107.479 16.6611H122.578"
                     stroke="#28ABE2"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M107.479 25.5124H122.578"
                     stroke="#28ABE2"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M78.843 25.5124H103.314"
                     stroke="#58595B"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M78.843 67.1653H112.165"
                     stroke="#58595B"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M78.843 117.93H112.165"
                     stroke="#58595B"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M78.843 125.479H112.165"
                     stroke="#58595B"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     d="M78.843 169.475H112.165"
                     stroke="#58595B"
-                    strokeWidth="5.20661"
-                    strokeMiterlimit="10"
+                    stroke-width="5.20661"
+                    stroke-miterlimit="10"
                   />
                   <path
                     opacity="0.75"
@@ -357,10 +357,10 @@ const AwaisComponent = () => {
           </div>
         </div>
       </div>
-      <div id="built-in-git" className="swimlane">
-        <div className="container">
-          <div className="row">
-            <div className="col-sm-4">
+      <div id="built-in-git" class="swimlane">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-4">
               <svg
                 width="360"
                 height="235"
@@ -381,15 +381,15 @@ const AwaisComponent = () => {
                 <path
                   d="M307.792 2.59741H2.59717V197.143H307.792V2.59741Z"
                   stroke="#6D6E71"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M23.8959 2.59741H2.59717V197.143H23.8959V2.59741Z"
                   fill="#D1D3D4"
                   stroke="#6D6E71"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M13.2465 19.7402C16.259 19.7402 18.7011 17.2982 18.7011 14.2857C18.7011 11.2732 16.259 8.83115 13.2465 8.83115C10.2341 8.83115 7.79199 11.2732 7.79199 14.2857C7.79199 17.2982 10.2341 19.7402 13.2465 19.7402Z"
@@ -410,213 +410,213 @@ const AwaisComponent = () => {
                 <path
                   d="M119.221 26.7532H136.623"
                   stroke="#00AEEF"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M123.376 42.3376H138.441"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M123.376 58.1818H179.48"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M129.87 89.3506H200.519"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M134.545 104.935H181.818"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M123.376 73.7662H181.818"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M212.727 26.7532H230.13"
                   stroke="#00AEEF"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M217.143 42.3376H231.948"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M217.143 58.1818H288.312"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M223.637 89.3506H294.286"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M228.312 104.935H275.325"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M217.143 73.7662H247.013"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M93.7666 2.59741H23.8965V197.143H93.7666V2.59741Z"
                   fill="#D1D3D4"
                   stroke="#6D6E71"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M93.7666 7.27271H23.8965V21.0389H93.7666V7.27271Z"
                   stroke="#6D6E71"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M93.7666 21.2987H23.8965V53.5065H93.7666V21.2987Z"
                   stroke="#6D6E71"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M32.2075 14.2857H56.6231"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M40.5195 60.5194H74.8052"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M40.5195 68.8312H74.8052"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M40.5195 77.4026H74.8052"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M40.5195 85.7143H74.8052"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M40.5195 94.2857H74.8052"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M40.5195 102.597H74.8052"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M31.6885 60.5194H37.143"
                   stroke="#00A651"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M31.6885 68.8312H37.143"
                   stroke="#00A651"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M31.6885 77.4026H37.143"
                   stroke="#00A651"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M31.6885 85.7143H37.143"
                   stroke="#7F3F98"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M31.6885 94.2857H37.143"
                   stroke="#7F3F98"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M31.6885 102.597H37.143"
                   stroke="#F42534"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M40.5195 30.1299H74.8052"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M40.5195 38.4416H74.8052"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M40.5195 47.013H74.8052"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M31.6885 30.1299H37.143"
                   stroke="#00A651"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M31.6885 38.4416H37.143"
                   stroke="#00A651"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M31.6885 47.013H37.143"
                   stroke="#00A651"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M204.675 2.59741V197.143"
                   stroke="#6D6E71"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M264 117C264 143.51 285.49 165 312 165C338.51 165 360 143.51 360 117C360 90.4903 338.51 69 312 69C285.49 69 264 90.4903 264 117Z"
@@ -628,7 +628,7 @@ const AwaisComponent = () => {
                 />
               </svg>
             </div>
-            <div className="col-sm-7 col-sm-push-1">
+            <div class="col-sm-7 col-sm-push-1">
               <h2>Git commands built-in.</h2>
               <p>
                 Working with Git and other SCM providers has never been easier.
@@ -640,19 +640,19 @@ const AwaisComponent = () => {
         </div>
       </div>
 
-      <div id="hundreds-of-extensions" className="swimlane hundreds-extensions">
-        <div className="container">
-          <div className="row">
-            <div className="col-sm-4 col-sm-push-8">
+      <div id="hundreds-of-extensions" class="swimlane hundreds-extensions">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-4 col-sm-push-8">
               <a id="home-marketplace-link" href="#" target="_blank">
                 <img
-                  src="/Awais Component/HundredsOfExtensions.png"
-                  className="hundreds-extensions-img"
+                  src="D:\Coding\Web Development\Portfolio_react-grp-prj-bq2.0\src\assets\Awais Component\Hundreds-of-Extensions.png"
+                  class="hundreds-extensions-img"
                   alt="Easily use extensions in VS Code"
                 />
               </a>
             </div>
-            <div className="col-sm-7 col-sm-pull-4">
+            <div class="col-sm-7 col-sm-pull-4">
               <h2>Extensible and customizable.</h2>
               <p>
                 Want even more features? Install extensions to add new
@@ -671,10 +671,10 @@ const AwaisComponent = () => {
         </div>
       </div>
 
-      <div id="deploy" className="swimlane">
-        <div className="container">
-          <div className="row">
-            <div className="col-sm-4">
+      <div id="deploy" class="swimlane">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-4">
               <svg
                 width="360"
                 height="235"
@@ -685,15 +685,15 @@ const AwaisComponent = () => {
                 <path
                   d="M309.351 2.59741H4.15601V197.143H309.351V2.59741Z"
                   stroke="#6D6E70"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M25.4547 2.59741H4.15601V197.143H25.4547V2.59741Z"
                   fill="#D0D2D3"
                   stroke="#6D6E70"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M14.8054 19.7402C17.8178 19.7402 20.2599 17.2982 20.2599 14.2857C20.2599 11.2732 17.8178 8.83115 14.8054 8.83115C11.7929 8.83115 9.35083 11.2732 9.35083 14.2857C9.35083 17.2982 11.7929 19.7402 14.8054 19.7402Z"
@@ -718,221 +718,221 @@ const AwaisComponent = () => {
                 <path
                   d="M120.779 26.7532H155.584"
                   stroke="#00ADEE"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M129.351 42.3376H159.221"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M129.351 57.9221H271.948"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M142.078 89.0909H283.636"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M151.688 104.675H245.714"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M129.351 73.5065H189.351"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M95.3247 2.59741H25.4546V197.143H95.3247V2.59741Z"
                   fill="#D0D2D3"
                   stroke="#6D6E70"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M95.3247 7.27271H25.4546V57.9221H95.3247V7.27271Z"
                   stroke="#6D6E70"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M95.3247 57.9221H25.4546V108.571H95.3247V57.9221Z"
                   stroke="#6D6E70"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M95.3247 108.312H25.4546V158.961H95.3247V108.312Z"
                   stroke="#6D6E70"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M33.7661 15.5844H38.9609"
                   stroke="#D9B000"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M41.5583 15.5844H75.3246"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M41.5583 25.974H75.3246"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M33.7661 25.974H38.9609"
                   stroke="#D9B000"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M41.5583 36.3636H75.3246"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M33.7661 36.3636H38.9609"
                   stroke="#D9B000"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M33.7661 67.5325H38.9609"
                   stroke="#11A1E2"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M41.5583 67.5325H75.3246"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M41.5583 77.9221H75.3246"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M33.7661 77.9221H38.9609"
                   stroke="#11A1E2"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M41.5583 88.3117H75.3246"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M33.7661 88.3117H38.9609"
                   stroke="#11A1E2"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M33.7661 116.883H38.9609"
                   stroke="#60BD16"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M41.5583 116.883H75.3246"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M41.5583 127.273H75.3246"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M33.7661 127.273H38.9609"
                   stroke="#60BD16"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M41.5583 137.662H75.3246"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M33.7661 137.662H38.9609"
                   stroke="#60BD16"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M33.7661 168.831H38.9609"
                   stroke="#1A6ECD"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M41.5583 168.831H75.3246"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M41.5583 179.221H75.3246"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M33.7661 179.221H38.9609"
                   stroke="#1A6ECD"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M41.5583 189.61H75.3246"
                   stroke="#58595B"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M33.7661 189.61H38.9609"
                   stroke="#1A6ECD"
-                  strokeWidth="5.19481"
-                  strokeMiterlimit="10"
+                  stroke-width="5.19481"
+                  stroke-miterlimit="10"
                 />
                 <path
                   d="M264 117C264 143.51 285.49 165 312 165C338.51 165 360 143.51 360 117C360 90.4903 338.51 69 312 69C285.49 69 264 90.4903 264 117Z"
                   fill="#0072C6"
                 />
                 <path
-                  fillRule="evenodd"
-                  clipRule="evenodd"
+                  fill-rule="evenodd"
+                  clip-rule="evenodd"
                   d="M299.616 93.3006C300.13 91.7762 301.56 90.7499 303.169 90.7499H305.124H306.029L306.029 90.75H320.83C322.439 90.75 323.869 91.7764 324.383 93.3008L339.571 138.3C340.391 140.731 338.583 143.25 336.018 143.25H318.875V143.233C318.758 143.244 318.639 143.25 318.518 143.25H318.452C317.647 143.25 316.862 142.99 316.216 142.51L304.767 134.005L302.507 140.699C301.993 142.223 300.563 143.249 298.954 143.249H287.982C285.416 143.249 283.608 140.731 284.429 138.3L299.616 93.3006ZM296.642 124.855L317.707 140.503C317.922 140.663 318.184 140.75 318.452 140.75H318.518C319.373 140.75 319.976 139.91 319.702 139.1L311.315 114.249L307.751 123.724L307.446 124.534H306.581H296.212L296.642 124.855ZM336.018 140.75H322.055C322.324 139.995 322.355 139.142 322.071 138.3L306.883 93.3008C306.878 93.2838 306.872 93.2669 306.866 93.25H320.83C321.367 93.25 321.843 93.5921 322.015 94.1003L337.202 139.1C337.475 139.91 336.873 140.75 336.018 140.75Z"
                   fill="white"
                 />
               </svg>
             </div>
-            <div className="col-sm-7 col-sm-push-1">
+            <div class="col-sm-7 col-sm-push-1">
               <h2>Deploy with confidence and ease</h2>
               <p>
                 With <a href="#">Microsoft Azure</a> you can deploy and host
