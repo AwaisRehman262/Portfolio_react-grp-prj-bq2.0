@@ -1,10 +1,9 @@
 import styles from "./navbar.module.css";
 import React from "react";
 const Navbar = () => {
-
   return (
     <>
-      <header id="home" className={styles.home}>
+      <header id="home">
         <nav id={styles.nav}>
           <div className={styles.container}>
             <div className={styles.logo}>
@@ -23,8 +22,9 @@ const Navbar = () => {
                 <a href="#section-six-id">Reviews</a>
               </li>
               <li>
-                <a href="#colaborations">Collaborations</a>
+                <a href="#colaborations">Colaborations</a>
               </li>
+              <li></li>
             </ul>
           </div>
         </nav>
