@@ -20,5 +20,5 @@ body::after {
     top: 0;
     left: 0;
     align-self: center;
-    opacity: calc(0.9);
+    opacity: calc(0.7);
 }
