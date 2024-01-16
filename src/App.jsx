@@ -16,7 +16,7 @@ const App = () => {
       <div className="container">
         <SectionOne />
         <SectionTwo />
-        <SectionThree />
+        <SectionThree/>
         <AwaisComponent />
         <SectionSeven />
       </div>
