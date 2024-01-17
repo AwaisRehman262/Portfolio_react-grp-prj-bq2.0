@@ -646,7 +646,7 @@ const AwaisComponent = () => {
             <div class="col-sm-4 col-sm-push-8">
               <a id="home-marketplace-link" href="#" target="_blank">
                 <img
-                  src=".\src\assets\Awais Component\Hundreds-of-Extensions.png"
+                  src="assets/Awais Component/Hundreds-of-Extensions.png"
                   class="hundreds-extensions-img"
                   alt="Easily use extensions in VS Code"
                 />
